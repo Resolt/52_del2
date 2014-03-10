@@ -11,10 +11,8 @@ public class FunctionalityController {
 		
 		socket.startServer(); // establish a connection 
 		
-		while(socket.connectionStatus){ 
 			
 			
-		}
 	}
 	
 }
